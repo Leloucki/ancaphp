@@ -1,0 +1,93 @@
+.navbar{
+    background-color: #ffc800;
+    width: 100%;
+}
+
+.nav-item{
+    margin: 5%;
+}
+
+.dropdown-menu{
+    background-color: #ffc800;
+    font-size: 110%;
+    width: 220px;
+}
+
+.navbar-toggler-icon{
+    width:2em;
+    height:2em;
+}
+
+.quemsomos{
+    background-color: black;
+    color:blanchedalmond
+}
+
+.parceiros{
+    background-color: #ffc800;
+}
+
+.servicos{
+    background-color: black;
+    color: blanchedalmond
+}
+
+.doacao{
+    background-color: #ffc800;
+}
+
+.change{
+    color: #ffc800;
+    background-color: rgb(0, 0, 0);
+    border-color: rgb(0, 0, 0);
+    font-size: 80%;
+}
+
+.change:hover, .change:focus{
+    color: rgb(223, 223, 223);
+    background-color: rgb(20, 20, 20);
+    border-color: rgb(0, 0, 0);
+}
+
+
+.modal-content {
+    color:yellow;
+    background-color: rgba(19, 19, 19, 0.651);
+    overflow-wrap: break-word;
+}
+
+
+.padding{
+    padding: 3%;
+}
+
+.paddingtop{
+    padding-top: 10%;
+}
+
+body{
+    font-size: 170%;
+    background-color: #000000;
+}
+
+.footer-index{
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+}
+
+.footer-login{
+    background-color: #ffc800;
+    color: #000000;
+}
+
+.login{
+    padding: 10%;
+}
+
+.form-check{
+    margin-bottom: 5%;
+}
+
+.input-group-lg input[type=password], .input-group-lg input[type=email], .input-group-lg input[type=text]{
+    font-size: 120%;
+}
